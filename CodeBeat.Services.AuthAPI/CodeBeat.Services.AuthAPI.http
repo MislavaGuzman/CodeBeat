@@ -1,0 +1,6 @@
+@CodeBeat.Services.AuthAPI_HostAddress = http://localhost:5207
+
+GET {{CodeBeat.Services.AuthAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
